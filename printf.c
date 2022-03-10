@@ -1,4 +1,4 @@
-//Buzdugan Mihaela 321CB
+//Buzdugan Mihaela
 #include <unistd.h>
 #include <stdarg.h>
 #include <string.h>
